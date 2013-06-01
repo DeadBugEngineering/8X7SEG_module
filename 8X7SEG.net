@@ -1,0 +1,274 @@
+# EESchema Netlist Version 1.1 created  25/05/2013 21:51:50
+(
+ ( /51A0E1D3 $noname  R1 56k {Lib=R}
+  (    1 /ISET )
+  (    2 GND )
+ )
+ ( /51A0E02B $noname  FB1 40R_@100MHz {Lib=FB}
+  (    1 +3.3V )
+  (    2 /+3V3_input )
+ )
+ ( /51A0DA57 $noname  C1 22u_10V {Lib=CPOL}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /51A0D7F8 $noname  C2 100n_50V {Lib=C}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /51A090DB $noname  DISP2 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG4/SEG4 )
+  (    2 DIG5/SEG5 )
+  (    3 DIG3/SEG3 )
+  (    4 DIG6/SEG6 )
+  (    5 DIG0/SEG0 )
+  (    6 DIG7/SEG7 )
+  (    7 SEG8 )
+  (    8 DIG3/SEG3 )
+  (    9 DIG2/SEG2 )
+  (   10 DIG1/SEG1 )
+ )
+ ( /51A090DA $noname  DISP4 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG4/SEG4 )
+  (    2 DIG5/SEG5 )
+  (    3 DIG2/SEG2 )
+  (    4 DIG6/SEG6 )
+  (    5 DIG0/SEG0 )
+  (    6 DIG7/SEG7 )
+  (    7 SEG8 )
+  (    8 DIG2/SEG2 )
+  (    9 DIG3/SEG3 )
+  (   10 DIG1/SEG1 )
+ )
+ ( /51A090D9 $noname  DISP8 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG4/SEG4 )
+  (    2 DIG5/SEG5 )
+  (    3 DIG0/SEG0 )
+  (    4 DIG6/SEG6 )
+  (    5 DIG1/SEG1 )
+  (    6 DIG7/SEG7 )
+  (    7 SEG8 )
+  (    8 DIG0/SEG0 )
+  (    9 DIG3/SEG3 )
+  (   10 DIG2/SEG2 )
+ )
+ ( /51A090D8 $noname  DISP6 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG4/SEG4 )
+  (    2 DIG5/SEG5 )
+  (    3 DIG1/SEG1 )
+  (    4 DIG6/SEG6 )
+  (    5 DIG0/SEG0 )
+  (    6 DIG7/SEG7 )
+  (    7 SEG8 )
+  (    8 DIG1/SEG1 )
+  (    9 DIG3/SEG3 )
+  (   10 DIG2/SEG2 )
+ )
+ ( /51A090CF $noname  DISP5 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG3/SEG3 )
+  (    2 DIG4/SEG4 )
+  (    3 DIG5/SEG5 )
+  (    4 DIG6/SEG6 )
+  (    5 DIG0/SEG0 )
+  (    6 DIG7/SEG7 )
+  (    7 SEG8 )
+  (    8 DIG5/SEG5 )
+  (    9 DIG2/SEG2 )
+  (   10 DIG1/SEG1 )
+ )
+ ( /51A090CE $noname  DISP7 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG3/SEG3 )
+  (    2 DIG5/SEG5 )
+  (    3 DIG4/SEG4 )
+  (    4 DIG6/SEG6 )
+  (    5 DIG0/SEG0 )
+  (    6 DIG7/SEG7 )
+  (    7 SEG8 )
+  (    8 DIG4/SEG4 )
+  (    9 DIG2/SEG2 )
+  (   10 DIG1/SEG1 )
+ )
+ ( /51A0909E $noname  DISP3 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG3/SEG3 )
+  (    2 DIG4/SEG4 )
+  (    3 DIG6/SEG6 )
+  (    4 DIG5/SEG5 )
+  (    5 DIG0/SEG0 )
+  (    6 DIG7/SEG7 )
+  (    7 SEG8 )
+  (    8 DIG6/SEG6 )
+  (    9 DIG2/SEG2 )
+  (   10 DIG1/SEG1 )
+ )
+ ( /51A0909A $noname  DISP1 SC56-11SRWA {Lib=SC56-11SRWA}
+  (    1 DIG3/SEG3 )
+  (    2 DIG4/SEG4 )
+  (    3 DIG7/SEG7 )
+  (    4 DIG5/SEG5 )
+  (    5 DIG0/SEG0 )
+  (    6 DIG6/SEG6 )
+  (    7 SEG8 )
+  (    8 DIG7/SEG7 )
+  (    9 DIG2/SEG2 )
+  (   10 DIG1/SEG1 )
+ )
+ ( /519EE80D $noname  X1 PMOD_6PIN_PERIPHERAL {Lib=PMOD_6PIN_PERIPHERAL}
+  (    1 /~CS )
+  (    2 /DIN )
+  (    3 /OSC )
+  (    4 /CLK )
+  (    5 GND )
+  (    6 /+3V3_input )
+ )
+ ( /519EE7B8 $noname  U1 MAX6951 {Lib=MAX6951}
+  (    1 /DIN )
+  (    2 /CLK )
+  (    3 DIG3/SEG3 )
+  (    4 DIG2/SEG2 )
+  (    5 DIG1/SEG1 )
+  (    6 DIG0/SEG0 )
+  (    7 /ISET )
+  (    8 GND )
+  (    9 /OSC )
+  (   10 SEG8 )
+  (   11 DIG7/SEG7 )
+  (   12 DIG6/SEG6 )
+  (   13 DIG5/SEG5 )
+  (   14 DIG4/SEG4 )
+  (   15 /~CS )
+  (   16 +3.3V )
+  (   17 GND )
+ )
+)
+*
+{ Pin List by Nets
+Net 1 "DIG2/SEG2" "DIG2/SEG2"
+ DISP4 3
+ DISP2 9
+ U1 4
+ DISP3 9
+ DISP8 10
+ DISP6 10
+ DISP4 8
+ DISP5 9
+ DISP7 9
+ DISP1 9
+Net 2 "SEG8" "SEG8"
+ DISP5 7
+ DISP8 7
+ DISP1 7
+ DISP3 7
+ DISP7 7
+ DISP6 7
+ DISP2 7
+ U1 10
+ DISP4 7
+Net 3 "DIG6/SEG6" "DIG6/SEG6"
+ DISP5 4
+ DISP6 4
+ DISP8 4
+ DISP1 6
+ DISP7 4
+ DISP4 4
+ DISP2 4
+ U1 12
+ DISP3 8
+ DISP3 3
+Net 4 "DIG5/SEG5" "DIG5/SEG5"
+ DISP6 2
+ U1 13
+ DISP8 2
+ DISP5 3
+ DISP5 8
+ DISP7 2
+ DISP1 4
+ DISP4 2
+ DISP2 2
+ DISP3 4
+Net 5 "DIG4/SEG4" "DIG4/SEG4"
+ DISP4 1
+ DISP8 1
+ DISP7 8
+ DISP7 3
+ DISP1 2
+ DISP5 2
+ DISP3 2
+ DISP2 1
+ DISP6 1
+ U1 14
+Net 6 "/OSC" "OSC"
+ X1 3
+ U1 9
+Net 7 "DIG0/SEG0" "DIG0/SEG0"
+ U1 6
+ DISP3 5
+ DISP8 8
+ DISP2 5
+ DISP1 5
+ DISP8 3
+ DISP4 5
+ DISP6 5
+ DISP7 5
+ DISP5 5
+Net 8 "DIG1/SEG1" "DIG1/SEG1"
+ DISP2 10
+ DISP7 10
+ DISP1 10
+ DISP3 10
+ DISP6 3
+ DISP6 8
+ DISP5 10
+ U1 5
+ DISP4 10
+ DISP8 5
+Net 9 "DIG3/SEG3" "DIG3/SEG3"
+ DISP8 9
+ DISP2 8
+ DISP1 1
+ DISP6 9
+ U1 3
+ DISP3 1
+ DISP2 3
+ DISP4 9
+ DISP5 1
+ DISP7 1
+Net 10 "GND" "GND"
+ R1 2
+ C1 2
+ U1 17
+ C2 2
+ U1 8
+ X1 5
+Net 11 "+3.3V" "+3.3V"
+ C2 1
+ C1 1
+ FB1 1
+ U1 16
+Net 12 "/CLK" "CLK"
+ X1 4
+ U1 2
+Net 13 "/+3V3_input" "+3V3_input"
+ X1 6
+ FB1 2
+Net 14 "/ISET" "ISET"
+ R1 1
+ U1 7
+Net 15 "/~CS" "~CS"
+ X1 1
+ U1 15
+Net 16 "/DIN" "DIN"
+ U1 1
+ X1 2
+Net 17 "DIG7/SEG7" "DIG7/SEG7"
+ DISP1 8
+ DISP8 6
+ DISP1 3
+ DISP6 6
+ DISP3 6
+ DISP2 6
+ U1 11
+ DISP4 6
+ DISP7 6
+ DISP5 6
+}
+#End

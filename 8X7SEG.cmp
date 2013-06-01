@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 25/05/2013 20:09:04
+
+BeginCmp
+TimeStamp = /51A0DA57;
+Reference = C1;
+ValeurCmp = 22u_10V;
+IdModule  = SMD_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A0D7F8;
+Reference = C2;
+ValeurCmp = 100n_50V;
+IdModule  = SMD_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A0909A;
+Reference = DISP1;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A090DB;
+Reference = DISP2;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A0909E;
+Reference = DISP3;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A090DA;
+Reference = DISP4;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A090CF;
+Reference = DISP5;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A090D8;
+Reference = DISP6;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A090CE;
+Reference = DISP7;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A090D9;
+Reference = DISP8;
+ValeurCmp = SC56-11SRWA;
+IdModule  = Kingbright_SC56-SRWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A0E02B;
+Reference = FB1;
+ValeurCmp = 40R_@100MHz;
+IdModule  = SMD_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A0E1D3;
+Reference = R1;
+ValeurCmp = 56k;
+IdModule  = SMD_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /519EE7B8;
+Reference = U1;
+ValeurCmp = MAX6951;
+IdModule  = QSOP16_EP3mm3;
+EndCmp
+
+BeginCmp
+TimeStamp = /519EE80D;
+Reference = X1;
+ValeurCmp = PMOD_6PIN_PERIPHERAL;
+IdModule  = PMOD_6pin_peripheral;
+EndCmp
+
+EndListe

@@ -1,0 +1,7 @@
+       100n 50V	  1	               	"C2"
+        22u 10V	  1	               	"C1"
+    40R @100MHz	  1	               	"FB1"
+            56k	  1	               	"R1"
+        MAX6951	  1	               	"U1"
+PMOD_6PIN_PERIPHERAL	  1	               	"X1"
+    SC56-11SRWA	  8	               	"DISP1, DISP2, DISP3, DISP4, DISP5, DISP6, DISP7, DISP8"
